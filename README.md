@@ -1,17 +1,13 @@
 # Python
-
-# Security Information & Event Management (SIEM)
- I did the SIEM practice labs in our University SOC facility as well as on self-training platforms on the internet.
+I am currently doing self-paced Python coding course offered by Havard University <a href=https://pll.harvard.edu/course/cs50s-introduction-programming-python>Python CS50</a>
 ## Project Objective
-The objective was to gain hands-on experience in monitoring, detecting and responding to security events within an organization's systems.
+The objective is to gain hands-on experience in coding.
 ## Tools 
-- Splunk
-- Microsoft Sentinel
-
+- Python
 ## Skills Gained
-- Collecting and filtering logs for analysis
-- Ability to identify abnormal patterns and indicators of potential compromise before they spread further
-- Configuring and monitoring security alerts in real time, ensuring that potential security incidents are detected as quickly as possible
-- Basic insights of how to perform incident management, i.e respond to and manage security incidents, including containment, investigation, and remediation.
-
+- Programming fundamentals (variables, conditionals, functions, data structures)
+- Problem solving in a logical manner
+- Automation of repetitive tasks using loops
 ## Outcomes 
+![Python Bank Greeting Screenshot](https://github.com/user-attachments/assets/b9397f5f-35bc-487a-ad2f-a95be9aaa77d)
+![Python Deep Program Screenshot](https://github.com/user-attachments/assets/0bdd515c-60ab-496a-9d91-f3d2c8b8df46)
